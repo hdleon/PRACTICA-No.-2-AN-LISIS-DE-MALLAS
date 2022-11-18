@@ -94,6 +94,7 @@ Sabemos que: la intensidad de la malla 3 será la igual I4, es decir 1,07 mA
 
 **2.4. VIDEO**
 
+https://www.youtube.com/watch?v=qom_zzccob0
 
 **2.5. CONCLUSIONES**
 
