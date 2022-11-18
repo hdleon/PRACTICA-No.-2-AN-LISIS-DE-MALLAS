@@ -44,12 +44,65 @@
 
 **2.3. PROCEDIMIENTO**
 
+![image](https://user-images.githubusercontent.com/116777118/202720917-2a2d66c2-4391-402c-81bd-f5f965cc802c.png)
+
+**1.  Determinamos la polaridad de nuestro circuito**
+
+![image](https://user-images.githubusercontent.com/116777118/202720837-55565d56-6ad9-4706-9d5f-f154ee77f7c3.png)
+
+**2. Identificamos los nodos más relevantes para nuestro circuito**
+
+![image](https://user-images.githubusercontent.com/116777118/202720798-b01b5be0-7e26-441f-b9d2-8c690f90c73a.png)
+
+**3. Identificamos las mallas presentes  y las intensidades presentes en cada una.** 
+
+![image](https://user-images.githubusercontent.com/116777118/202720745-a05b0b73-7b3f-4e97-9b25-021dd5af8a77.png)
+
+**4.  Aplicando la Ley de Corrientes de Kirchoff, tenemos:** 
+
+![image](https://user-images.githubusercontent.com/116777118/202720627-4859038c-ab0c-4032-875b-1ae1c9fff7dd.png)
+
+**5. Aplicando la Ley de Voltaje de Kirchoff, tenemos:**
+
+![image](https://user-images.githubusercontent.com/116777118/202720499-e0aa7311-b28f-4143-af78-cec60d6c7aa0.png)
+
+**6. Teniendo 5 ecuaciones entre las dos leyes de Kirchoff:**
+
+![image](https://user-images.githubusercontent.com/116777118/202720261-30c1d3da-05a1-41a2-b734-88a7dd681275.png)
+
+![image](https://user-images.githubusercontent.com/116777118/202720204-c66ace79-d977-44ee-8134-f8093c29ae03.png)
+
+![image](https://user-images.githubusercontent.com/116777118/202720115-fa0356ec-cb5c-4641-8050-0465f844ff3a.png)
+
+Sabemos que: la intensidad de la malla 1 será la igual  I_1 es decir 2.802 mA
+
+![image](https://user-images.githubusercontent.com/116777118/202719855-24b6d4ed-ce13-4cea-99c4-18e25b30a089.png)
+
+![image](https://user-images.githubusercontent.com/116777118/202719884-f751d410-5030-4f9c-b43f-48d6a9513914.png)
+
+Sabemos que: la intensidad de la malla 2 será 100μA
+
+![image](https://user-images.githubusercontent.com/116777118/202719756-8d0e23cc-799f-4bbc-9bc5-f9062c6e8d53.png)
+
+![image](https://user-images.githubusercontent.com/116777118/202719787-72a0ce8b-bef0-4d07-926e-5ec7ae28f26d.png)
+
+Sabemos que: la intensidad de la malla 3 será la igual I4, es decir 1,07 mA 
+
+![image](https://user-images.githubusercontent.com/116777118/202719638-391db192-1484-4efc-9b13-ba5aa344ee4a.png)
+
+![image](https://user-images.githubusercontent.com/116777118/202719701-d632e68c-c24e-4092-8040-3d4b3f2dc74c.png)
+
 **2.4. VIDEO**
 
 
 **2.5. CONCLUSIONES**
 
+- Se consiguió demostrar las dos leyes de Kirchhoff tanto la de voltajes como la de corrientes en el respectivo circuito para la práctica. 
 
-**2.6. BIBLIOGRAFIA**
+- Se analizo el comportamiento de las corrientes en circuitos mixtos y su  relación con respecto a mallas y nodos. 
+
+- Las mallas son trayectorias cerradas que comprometen pero que no contienen a otro circuito dentro. 
+
+- Las corrientes se mantienen igual en circuitos en serie mientras que, en circuitos en paralelo, esta se divide, sin embargo, la intensidad de corriente de entrada siempre es igual al de salida. 
 
 
