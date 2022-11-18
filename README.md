@@ -44,17 +44,17 @@
 
 **2.3. PROCEDIMIENTO**
 
-![image](https://user-images.githubusercontent.com/116777118/202720917-2a2d66c2-4391-402c-81bd-f5f965cc802c.png)
+![image](https://user-images.githubusercontent.com/116777118/202761128-422780a0-95d1-4bb7-a12b-45e04e351012.png)
 
-**1.  Determinamos la polaridad de nuestro circuito**
+**1. Determinamos la polaridad de nuestro circuito**
 
-![image](https://user-images.githubusercontent.com/116777118/202720837-55565d56-6ad9-4706-9d5f-f154ee77f7c3.png)
+![image](https://user-images.githubusercontent.com/116777118/202761343-383ab494-b445-42a4-8b1c-f90fd275a6a0.png)
 
 **2. Identificamos los nodos más relevantes para nuestro circuito**
 
-![image](https://user-images.githubusercontent.com/116777118/202720798-b01b5be0-7e26-441f-b9d2-8c690f90c73a.png)
+![image](https://user-images.githubusercontent.com/116777118/202761510-65eb7439-4680-445e-8b66-a10f62300577.png)
 
-**3. Identificamos las mallas presentes  y las intensidades presentes en cada una.** 
+**3. Identificamos las mallas presentes y las intensidades presentes en cada una.** 
 
 ![image](https://user-images.githubusercontent.com/116777118/202720745-a05b0b73-7b3f-4e97-9b25-021dd5af8a77.png)
 
