@@ -12,7 +12,7 @@
 
 ![image](https://user-images.githubusercontent.com/116777118/202650674-4a16675c-0b76-4891-a3ed-a50fb7bee159.png)
 
-![image](https://user-images.githubusercontent.com/116777118/202655664-3fd9f8ee-a05a-485a-95eb-c2f477bf36f7.png)
+![image](https://user-images.githubusercontent.com/116777118/202657169-b1338281-cb01-47cb-b5f5-29c594b33fac.png)
 
 **MATERIAL O EQUIPO:**
 
